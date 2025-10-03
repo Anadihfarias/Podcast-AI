@@ -1,7 +1,5 @@
 
 
-
-
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
@@ -44,7 +42,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/anacf1/">
+        href="https://www.linkedin.com/in/anacf1/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
